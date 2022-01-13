@@ -1,7 +1,7 @@
 # HotDog_App
  
-Want to find the perfect pedigree to breed with your dog? Look no further! 
+Want to find the perfect match for your furry friend? Look no further!
 
-HotDog is a Tinder-like app that helps you find the perfect match for your furry friend.
+HotDog is a Tinder-like app that helps you find a special someone for your dog.
 
-We know that you want your dog's puppies to be as perfect as he/she is, so don't wait any longer to create your profile!
+Made with React.
