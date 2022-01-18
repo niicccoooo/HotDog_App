@@ -10,7 +10,7 @@ function Header() {
         <div className="header">
     
             <IconButton>
-                <AccountBoxIcon fontSize="large" />
+                <AccountBoxIcon fontSize="large" className="icon-header" />
             </IconButton>
 
         <img className="logo"
@@ -19,7 +19,7 @@ function Header() {
             />
 
             <IconButton>
-                <ChatIcon fontSize="large" />
+                <ChatIcon fontSize="large" className="icon-header" />
             </IconButton>
 
         </div>

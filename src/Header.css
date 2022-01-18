@@ -5,7 +5,12 @@
     border-bottom: 1px solid #F2EEED;
 }
 
+.icon-header {
+    padding: 15px;
+}
+
 .logo {
     object-fit: contain;
     height: 60px;
 }
+

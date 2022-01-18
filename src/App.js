@@ -1,12 +1,14 @@
 import React from "react";
 import './App.css';
 import Header from './Header';
+import UserCards from './UserCards';
 
 function App() {
   return (
     <div className="App">
-      <h1>Testing</h1>
+      <h1>HotDog</h1>
       <Header />
+      <UserCards />
     </div>
   );
 }
